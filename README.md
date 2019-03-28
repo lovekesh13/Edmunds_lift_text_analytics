@@ -2,4 +2,5 @@
 
 SCHOOL PROJECT
 User Generated Content Analytics
-PDF and Python notebook contains the overview of whole project along with how it was done.
+Python notebook is attached
+PDF contains the walkthrough of the whole code. What I did, How I did and at some location why I did it.
